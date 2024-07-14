@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74087800141",
+    "project_id": "everest-shop-95d79",
+    "storage_bucket": "everest-shop-95d79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74087800141:android:84662366106f281f4dab04",
+        "android_client_info": {
+          "package_name": "com.example.online_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWCVIUwHPRDAAeUDHAJiB1ssrWHHjQK84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
